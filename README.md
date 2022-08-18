@@ -1,5 +1,5 @@
 # git & GitHub Sandbox
-*A mock website to explore version management and collaborative work*
+** A mock website to explore version management and collaborative work*
 
 ## git
 
