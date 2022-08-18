@@ -13,8 +13,6 @@ After that, it's just a bunch of commands -- but it's important to conceptually 
 Before you do anything else, open a terminal and run the command `cd code/hacking`. If this fails, run `mkdir -p code/hacking` and then re-run the prior command. This moves you into a folder where you'll put this project (and creates it if it doesn't already exist).
 
 ### Base commands
-
-
 1. `git clone git@github.com ...` is the first command you'll run. On any GitHub respoitory (I know this is a bit out of order, but everything is intertwined) there is a green button that says "Code." Open that, click the "SSH" option, and then copy that into the command. This will make a copy of the existing repository on your computer in the location you're currently located in, `~/code/hacking`.
 **Note:** You must be in a git repository for the following commands to work. That means run `cd github-sandbox` after you've cloned the repository into `code/hacking`
 2. `git status` just gives current information about your project. This can be super helpful if you're just feeling lost.
